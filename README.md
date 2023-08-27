@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashleo
-- 👀 I’m interested in ... Full stack Development and Data Science
+- 👀 I’m interested in ... Full stack Development, AI/ML and Data Science
 - 🌱 I’m currently learning ... web dev
 - 💞️ I’m looking to collaborate on ... Web development projects and projects based on core java and Intermediate python programming.
 - 📫 How to reach me ... kiradooyash2924@gmail.com
