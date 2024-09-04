@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashleo](https://github.com/yashleo)
 
-- 💬 Ask me about **react, mongoose, and dsa**
+- 💬 Ask me about **React, Java, and DSA**
 
 - 📫 How to reach me **kiradooyash2924@gmail.com 9088307588**
 
